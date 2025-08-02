@@ -1,80 +1,133 @@
-<h1 align="center">Hi 👋, I'm Saad Ur Rehman</h1>
-<h3 align="center">Frontend Web Developer | JavaScript & React Enthusiast | Building UI for the Web</h3>
-<br>
+[![Header](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png "Header")](https://github.com/saads-dev)
 
-- 🔭 I’m currently working on [Amazon Clone](https://github.com/saads-dev/amazon-clone)
 
-- 🌱 I’m currently learning **Tailwind CSS, Node.js, Express.js, MongoDB (soon)**
 
-- 👯 I’m looking to collaborate on [Frontend projects with React](https://github.com/saads-dev/project-ideas)
 
-- 👨‍💻 All of my projects are available at [[My Portfolio Website](https://your-portfolio.com)]([My Portfolio Website](https://your-portfolio.com))
+# 👋 Hi there, I'm Saad Ur Rehman
 
-- 💬 Ask me about **### 💬 Ask me about **HTML, CSS, JavaScript, React, Responsive Design, Tailwind CSS****
+🚀 Frontend Web Developer | JavaScript & React Enthusiast | Building UI for the Web
 
-- 📫 How to reach me **Email: saad.dev@gmail.com - LinkedIn: [linkedin.com/in/saad-ur-rehman](https://linkedin.com/in/saad-ur-rehman) - Instagram: [@saads.dev](https://instagram.com/saads.dev)**
+---
 
-- 📄 Know about my experiences [[View My Resume](https://your-resume-link.com)]([View My Resume](https://your-resume-link.com))
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a passionate frontend developer who enjoys crafting clean, responsive, and user-friendly websites.  
+Currently building frontend projects and preparing to dive into the backend side with Node.js, Express, and MongoDB soon.
+
+<table>
+  <tr>
+    <td>🎯 <strong>Goal</strong></td>
+    <td>💡 <strong>Love</strong></td>
+    <td>📈 <strong>Learning From</strong></td>
+  </tr>
+  <tr>
+    <td>Get a frontend developer job → Start freelancing</td>
+    <td>Making projects, solving layout challenges, and learning new tech</td>
+    <td>YouTube tutorials & hands-on projects</td>
+  </tr>
+</table>
+ 
+
+---
+
+## 🚀 Tech Stack & Tools
+
+### 🧩 Frontend
+
 <p align="left">
-<a href="https://linkedin.com/in/saad-rajpoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-rajpoot" height="30" width="40" /></a>
-<a href="https://instagram.com/saad_rajpoot048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad_rajpoot048" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+---
+
+### 🛠️ Tools
+
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+</p>
 
-  <!-- MERN Stack -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+---
 
-  <br><br>
+### 🌱 Coming Soon
 
-  <!-- Frontend Tools -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-
-  <br><br>
-
-  <!-- Programming Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <br><br>
-
-  <!-- Tools / Extra -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
 </p>
 
 
+---
+
+##  Featured Projects
+
+### 🛒 Amazon Clone (React)
+A fully responsive eCommerce UI clone of Amazon with product cards, cart system, and modern layout. Built using React.
+
+> More projects coming soon...
+
+---
+
+## 🌱 Currently Learning
+
+- Tailwind CSS  
+- Node.js  
+- Express.js  
+- MongoDB *(coming soon)*  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/saads-dev" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2523/25231.png" alt="GitHub" width="30"/>
+    &nbsp;&nbsp;<strong>GitHub</strong>
+  </a>
+  <br/><br/>
+
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="30"/>
+    &nbsp;&nbsp;<strong>LinkedIn</strong> *(Coming Soon)*
+  </a>
+  <br/><br/>
+
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30"/>
+    &nbsp;&nbsp;<strong>Instagram</strong> *(Coming Soon)*
+  </a>
+</p>
+
+
+---
+
+## 🧾 Resume & Portfolio
+
+<p align="left">
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/000000/resume.png" alt="Resume Icon" />
+    &nbsp;&nbsp;<strong>View My Resume</strong> *(Coming Soon)*
+  </a>
+  <br/><br/>
+
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/000000/domain.png" alt="Portfolio Icon" />
+    &nbsp;&nbsp;<strong>Visit My Portfolio Website</strong> *(Coming Soon)*
+  </a>
+</p>
+
+---
+
+<p align="center">Made with ❤️ by Saad Ur Rehman</p>
